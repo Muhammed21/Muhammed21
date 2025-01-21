@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/test.com](https://www.linkedin.com/in/muhammed-cavus-95869b267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-cavus-95869b267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/test.com) -->
 
 # 💻 Tech Stack:
